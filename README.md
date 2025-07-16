@@ -6,6 +6,8 @@ Let me give you a comprehensive tour of this environmental incident reporting pl
 
 EcoReport is a **mobile-first community platform** that enables citizens to report environmental incidents, validates them through AI and community verification, and rewards users with blockchain tokens. It supports three distinct user roles with different capabilities.
 
+<img width="308" height="545" alt="image" src="https://github.com/user-attachments/assets/0d9453e5-8c39-476d-86e9-c8f4f283d138" />
+
 ---
 
 ## **User Roles & Access**
